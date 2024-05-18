@@ -1,6 +1,6 @@
 - 👋 Hello World!, I’m Atal Abdullah WAZIRI, Co-Founder of the Stellar Organization.
 - 👀 I’m interested in Programming and COmputers in general
-- 🌱 I’m currently working on projects after finishing CS50 Python as well as CS50x.
+- 🌱 I’m currently working on projects after the completion of CS50 Python as well as CS50x.
 - 📫 How you can contact me? <br>
       - email me: atalwaziri9@gmail.com <br>
       - insta: https://www.instagram.com/atal_waziri/ <br>

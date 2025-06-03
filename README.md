@@ -48,6 +48,13 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+![GitHub Snake dark](https://github.com/waziri245/waziri245/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![GitHub Snake light](https://github.com/waziri245/waziri245/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+---
+
 ### 💬 Let's Connect
 
 Whether you're exploring similar ideas or just want to say hi — feel free to reach out!

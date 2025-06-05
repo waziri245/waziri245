@@ -39,15 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waziri245&show_icons=true&theme=dracula" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waziri245&layout=compact&theme=dracula" width="45%"/>
-</p>
-
----
-
 ## 🐍 GitHub Contribution Snake
 
 <picture>

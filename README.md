@@ -39,13 +39,11 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waziri245/waziri245/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/waziri245/waziri245/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/waziri245/waziri245/output/github-contribution-grid-snake.svg" />
-</picture>
+![Atal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waziri245&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waziri245&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

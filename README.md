@@ -27,15 +27,15 @@
 
 ### 🚀 Featured Projects
 
-
 | 🧠 Project | 💡 Description |
 |-----------|----------------|
-| 🗂️ **Folder-Sorter** | Sorts files into folders by extension (C backend + Python GUI) |
-| 🔊 **Voice Assistant** | GUI assistant with voice commands, user login, and multithreading |
-| 📚 **Education Insight** | Terminal-based educational app with subject modules and tools |
-| 🧮 **Unit Converter** | Offline GUI converter for physics/engineering units |
-| 💸 **Bank System** | GUI app that calculates and manages loan applications |
-| 📢 **Text-to-Speech** | App to convert text into spoken words and save as MP3 |
+| 🗂️ **[Folder-Sorter](https://github.com/waziri245/Folder-Sorter)** | Sorts files into folders by extension (C backend + Python GUI) |
+| 🔊 **[Voice Assistant](https://github.com/waziri245/Voice-Assistant)** | GUI assistant with voice commands, user login, and multithreading |
+| 📚 **[Education Insight](https://github.com/waziri245/Education-Insight)** | Terminal-based educational app with subject modules and tools |
+| ❌ **[Tic-Tac-Toe](https://github.com/waziri245/Tic-Tac-Toe)** | Classic board game vs AI (Easy + Minimax) using C and Python |
+| 🧮 **[Unit Converter](https://github.com/waziri245/Unit-Converter)** | Offline GUI converter for physics/engineering units |
+| 💸 **[Bank System](https://github.com/waziri245/Bank-System)** | GUI app that calculates and manages loan applications |
+| 📢 **[Text-to-Speech](https://github.com/waziri245/Text-To-Speech)** | App to convert text into spoken words and save as MP3 |
 
 ---
 

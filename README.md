@@ -39,13 +39,11 @@
 
 ---
 
-## 🐍 GitHub Stats
+## ⭐ GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=waziri245&show_icons=true&theme=tokyonight&hide=prs,issues,contribs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waziri245&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=waziri245&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
